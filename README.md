@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkathmandupost.com%2Fcolumns%2F2022%2F05%2F19%2Fnonprogrammers-in-programming&psig=AOvVaw0YB9Bjyj_zO-TFqZlvJB6a&ust=1682168261057000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPig4pOEu_4CFQAAAAAdAAAAABAD" align="center" style="width: 100%" />
+<!-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkathmandupost.com%2Fcolumns%2F2022%2F05%2F19%2Fnonprogrammers-in-programming&psig=AOvVaw0YB9Bjyj_zO-TFqZlvJB6a&ust=1682168261057000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPig4pOEu_4CFQAAAAAdAAAAABAD" align="center" style="width: 100%" /> -->
 </div>  
   
 
@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Stack  
 <table><tr><td valign="top" width="33%">
 
 
