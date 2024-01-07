@@ -1,10 +1,17 @@
 <div align="center">
-<!-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkathmandupost.com%2Fcolumns%2F2022%2F05%2F19%2Fnonprogrammers-in-programming&psig=AOvVaw0YB9Bjyj_zO-TFqZlvJB6a&ust=1682168261057000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPig4pOEu_4CFQAAAAAdAAAAABAD" align="center" style="width: 100%" /> -->
-</div>  
-  
+<h1 align="center"><b>Hi , I'm Ojwang' Briton </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Looking+for+me..&quest;++;A+Skillfull+Full-Stack+Developer,;Computer+Science+Student,;Web3+enthusiast,;Active+Learner/Mathematician,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-### <div align="center">I'm Ojwang Briton, a Front-end developer 👨‍💻 </div>  
-  
+</div>
+<br> 
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
+
+<br>
 
 - 🔭 I’m currently a software Engeneering student 
   
@@ -15,13 +22,18 @@
 - 👩‍💻 An aspiring software developer eager to join the tech community  
   
 
-- ⚡ Fun fact:  Nothing starts with n and ends with g 😆
+- ⚡ Fun fact:  What about Philippines first computer virus 😉
   
 
 <br/>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eccb7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## My Skill Stack  
+<br/>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills Stack</b>
+<br>
 <table><tr><td valign="top" width="33%">
 
 
@@ -33,8 +45,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,nextjs,py,redux,sass" height="50" />
+  </a></div>
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="React" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="React" height="50" />  
+<img style="margin: 10px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+
 
 </td><td valign="top" width="33%">
 
@@ -42,23 +60,29 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,rails,ruby,solidity" height="50" />
+  </a>
+  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
+### Tools
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Git" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Git" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Git" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="Bash" height="50" />
+
 </div>
 
 </td></tr></table>  
@@ -66,7 +90,8 @@
 <br/>  
 
 
-## Connect with me  
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
 <div align="center">
 <a href="https://github.com/Eccb7" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -88,8 +113,13 @@
 
 <br/>  
 
+## Github Metrics
+<div align="center">
 
-## Recent Blog Posts  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Eccb7)  
+</div>
+
+<br/>  
   
 
 <br/>  
@@ -102,4 +132,3 @@
 <img src="https://komarev.com/ghpvc/?username=Eccb7&&style=flat-square" align="center" />
 </div>  
   
-# Ojwang-
