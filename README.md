@@ -13,13 +13,13 @@
 
 <br>
 
-- 🔭 I’m currently a software Engeneering student 
+- 🔭 I’m a Software Engineer. 
   
 
-- 🌱 I’m currently a student at Microverse... 
+- 🌱 I’m currently with Microverse... 
   
 
-- 👩‍💻 An aspiring software developer eager to join the tech community  
+- 👩‍💻 A Web3 enthusiast eager to join the blockchain community  
   
 
 - ⚡ Fun fact:  What about Philippines first computer virus 😉
