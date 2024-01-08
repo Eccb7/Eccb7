@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Ojwang' Briton </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Looking+for+me..&quest;++;A+Skillfull+Full-Stack+Developer,;Computer+Science+Student,;Web3+enthusiast,;Active+Learner/Mathematician,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Looking+for+me..&quest;++;A+Skilled+Full-Stack+Developer,;Computer+Science+Student,;Web3+enthusiast,;Active+Learner/Mathematician,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 </div>
@@ -23,6 +23,9 @@
   
 
 - ⚡ Fun fact:  What about Philippines first computer virus 😉
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
 
 <br/>  
@@ -131,4 +134,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Eccb7&&style=flat-square" align="center" />
 </div>  
-  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
