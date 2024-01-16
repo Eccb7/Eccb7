@@ -52,7 +52,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bootstrap,nextjs,py,redux,sass" height="50" />
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,nextjs,py,redux,sass" height="50" w="3" />
   </a></div>
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="React" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="React" height="50" />  
