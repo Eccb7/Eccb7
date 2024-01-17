@@ -19,7 +19,7 @@
 - 🌱 I’m currently with Microverse... 
   
 
-- 👩‍💻 A Web3 enthusiast eager to join the blockchain community  
+- 👩‍💻 A Web3 enthusiast working on smart contracts. 
   
 
 - ⚡ Fun fact:  What about Philippines first computer virus 😉 and what if I said that to you?
