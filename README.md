@@ -22,7 +22,7 @@
 - 👩‍💻 A Web3 enthusiast eager to join the blockchain community  
   
 
-- ⚡ Fun fact:  What about Philippines first computer virus 😉
+- ⚡ Fun fact:  What about Philippines first computer virus 😉 and what if I said that to you?
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
