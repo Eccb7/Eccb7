@@ -2,10 +2,13 @@
 <h1 align="center"><b>Hi, I'm Ojwang' Briton </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
+  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Looking+for+me..&quest;++;A+Skilled+Full-Stack+Developer,;Computer+Scientist,;Web3+Developer,;Active+Researcher/Mathematician,;Love+to+learn+new+stuffs..<3"></a>
+  
 </p>
 
 </div>
+
 <br> 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -40,7 +43,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills Stack</b>
 <br>
-<table><tr><td valign="top" width="33%">
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
 
 
@@ -60,7 +65,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 
 
@@ -75,7 +81,8 @@
   
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 
 
@@ -91,7 +98,9 @@
 
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
