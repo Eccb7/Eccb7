@@ -1,4 +1,5 @@
 <div align="center">
+  
 <h1 align="center">
   <b>Hi, I'm Ojwang' Briton </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -27,7 +28,7 @@
 - 👩‍💻 A Web3 enthusiast working on smart contracts. 
   
 
-- ⚡ Fun fact:  What about Philippines first computer virus 😉 and what if I said that to you?
+- ⚡ Fun fact:  What about Philippines' first computer virus 😉 and what if I said that to you?
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -89,7 +90,8 @@
 
 
 ### Tools
-<div align="center">  
+<div align="center">
+  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
