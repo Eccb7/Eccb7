@@ -121,11 +121,8 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Eccb7)  
 </div>
-
+<br/> 
 <br/>  
-  
-<br/>  
-
 <br/>  
 
 <div align="center">
