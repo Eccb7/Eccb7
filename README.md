@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Looking+for+me..&quest;++;A+Skilled+Full-Stack+Developer,;Computer+Scientist,;Web3+Developer,;Active+Researcher/Mathematician,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Looking+for+me..&quest;++;A+Skilled+Full-Stack+Developer,;Computer+Scientist,;Web3+Developer,;Active+Researcher/Mathematician"></a>
 </p>
 </div>
 <br> 
@@ -15,15 +15,15 @@
 
 <br>
 
-- 🔭 I’m a Software Engineer. 
+- 🔭 An Engineer. 
   
 
-- 🌱 I’m currently with Microverse... 
+- 🌱 A Micronaut within The Manifold Web
   
 
-- 👩‍💻 A Web3 enthusiast working on smart contracts. 
+- 👩‍💻 Working to revolutionize civilization.
 
-- ⚡ Fun fact:  What about Philippines' first computer virus 😉 and what if I said that to you?
+- ⚡ Fun fact:  Be safe,or else you'll stuxnet(ed).😃
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
