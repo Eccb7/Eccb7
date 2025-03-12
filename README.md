@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  <b>Ojwang' Briton here! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b>Ojwang' Briton here! </b>
 </h1>
 
 <p align="center">
