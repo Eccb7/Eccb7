@@ -10,7 +10,7 @@
 </div>
 <br> 
 
-##**About me**
+## About me
 <picture> <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
 
 <br>
@@ -23,7 +23,7 @@
 
 - 👩‍💻 Working to revolutionize civilization.
 
-- ⚡ Fun fact:  Be safe,or else you'll get stuxnet(ed).😃
+- ⚡ Fun fact:  Be safe,or else you'll get stuxnet(ed).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
